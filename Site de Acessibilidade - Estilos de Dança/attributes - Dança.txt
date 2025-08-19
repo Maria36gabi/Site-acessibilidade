@@ -1,0 +1,3 @@
+attributes
+: 
+NamedNodeMap {0: style, 1: alt, 2: id, 3: src, 4: data-deferred, 5: data-atf, 6: data-iml, style: style, alt: alt, id: id, src: src, data-deferred: data-deferred, …}
